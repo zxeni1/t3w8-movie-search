@@ -18,3 +18,6 @@ Phase 2 (Thursday):
 - Watchlist feature (save movies to local storage context).
 - Watchlist Page
 - Implement "delete from Watchlist" functionality.
+
+
+// import 'bootstrap/dist/css/bootstrap.min.css';
