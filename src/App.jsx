@@ -4,12 +4,14 @@ import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import Home from './pages/Home.jsx';
 import WatchlistProvider from './context/WatchlistContext.jsx';
 import Watchlist from './pages/Watchlist.jsx';
+import Navbar from './components/Navbar.jsx';
 
 function App() {
 
   return (
     <WatchlistProvider>
       <Router>
+        <Navbar />
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/watchlist' element={<Watchlist />} />
@@ -20,7 +22,8 @@ function App() {
   )
 }
 
-export default App
+export default App;
+
 
 
 

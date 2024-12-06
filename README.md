@@ -19,5 +19,5 @@ Phase 2 (Thursday):
 - Watchlist Page
 - Implement "delete from Watchlist" functionality.
 
-
-// import 'bootstrap/dist/css/bootstrap.min.css';
+Phase 3 (Saturday):
+- Nav Bar
