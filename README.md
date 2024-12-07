@@ -21,3 +21,6 @@ Phase 2 (Thursday):
 
 Phase 3 (Saturday):
 - Nav Bar
+- Added details page for each movie 
+- Added go back navigation
+- Disable add to watchlist after added
