@@ -25,3 +25,5 @@ Phase 3 (Saturday):
 - Added go back navigation
 - Disable add to watchlist after added
 - Work on notification component
+
+* Make sure you create a .env file in the root directory and provide your API Key.
