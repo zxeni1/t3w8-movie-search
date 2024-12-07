@@ -24,3 +24,4 @@ Phase 3 (Saturday):
 - Added details page for each movie 
 - Added go back navigation
 - Disable add to watchlist after added
+- Work on notification component
